@@ -3,8 +3,6 @@ env
 evals/
 papers/
 .claude
-nbs/03*
-nbs/04*
 nbs/05*
 nbs/06*
 nbs/07*
