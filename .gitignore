@@ -1,10 +1,12 @@
 env
+.venv
 .ipynb_checkpoints/
 evals/
 papers/
 .claude
-nbs/05*
-nbs/06*
+**/*04*/*solution.ipynb
+**/*05*/*solution.ipynb
+**/*06*/*solution.ipynb
 nbs/07*
 nbs/08*
 nbs/09*
@@ -33,5 +35,4 @@ nbs/31*
 nbs/32*
 nbs/33*
 nbs/34*
-**/*solution.ipynb
 db/
